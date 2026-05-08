@@ -63,7 +63,7 @@ Shadow Node **ne collecte aucune donnée personnelle**. Aucun tracking, aucune a
 
 Une question, un bug, un retour ?
 
-📧 **@icloud.com**
+📧 **bodegas_areal5s@icloud.com**
 
 Réponse sous 48–72h les jours ouvrés. Merci de préciser :
 - Le modèle d'iPhone et la version d'iOS
@@ -129,7 +129,7 @@ Shadow Node **collects no personal data**. No tracking, no third-party analytics
 
 A question, a bug, feedback?
 
-📧 **@icloud.com**
+📧 **bodegas_areal5s@icloud.com**
 
 We reply within 48–72 hours on business days. Please include:
 - Your iPhone model and iOS version
